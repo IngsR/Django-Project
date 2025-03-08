@@ -19,14 +19,14 @@ Setiap proyek dalam repositori ini adalah proyek Django yang berdiri sendiri. Un
 
 1.  **Clone Repositori Ini:**
     ```bash
-    git clone [URL Repository GitHub Anda]
-    cd [nama-repositori-anda]
+    git clone https://github.com/IngsR/Django-Project.git
+    cd Django_Project
     ```
 
 2.  **Navigasi ke Direktori Proyek yang Diinginkan:**
     Setiap proyek berada dalam direktori terpisah di dalam repositori ini. Misalnya, untuk menjalankan proyek "blog-sederhana", masuk ke direktori tersebut:
     ```bash
-    cd blog-sederhana
+    cd django-todo
     ```
 
 3.  **Buat dan Aktifkan Virtual Environment (Sangat Disarankan):**
