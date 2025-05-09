@@ -59,8 +59,7 @@ Setiap proyek dalam repositori ini adalah proyek Django yang berdiri sendiri. Un
 **📄 Lisensi**
 
 Proyek ini dilisensikan Gratis Siapa saja.
-  a
 
-    Dibuat dengan ❤️ untuk komunitas Django oleh Ikhwan Ramadhan
+   Dibuat dengan ❤️ untuk komunitas Django oleh Ikhwan Ramadhan
 
 **https://github.com/IngsR**
