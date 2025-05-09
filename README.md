@@ -59,7 +59,7 @@ Setiap proyek dalam repositori ini adalah proyek Django yang berdiri sendiri. Un
 **📄 Lisensi**
 
 Proyek ini dilisensikan Gratis Siapa saja.
-  adssads
+  adss
 
     Dibuat dengan ❤️ untuk komunitas Django oleh Ikhwan Ramadhan
 
