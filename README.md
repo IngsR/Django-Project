@@ -1,4 +1,4 @@
-# 📂 Kumpulan Proyek Django - Dokumentasi ! 🐍
+ # 📂 Kumpulan Proyek Django - Dokumentasi ! 🐍
 
 > **Repositori ini adalah harta karun proyek-proyek Django yang beragam, dirancang untuk menjadi sumber Dokumentasi, inspirasi, pembelajaran, dan referensi praktis bagi para pengembang web Django, baik pemula maupun berpengalaman.**  Di sini Anda akan menemukan berbagai contoh implementasi Django, mulai dari aplikasi web sederhana hingga fitur-fitur yang mencakup berbagai aspek pengembangan web modern.
 
@@ -8,7 +8,6 @@ Repositori ini berisi kumpulan proyek Django yang dikategorikan berdasarkan fitu
 
 Beberapa kategori proyek yang mungkin Anda temukan (daftar ini akan terus bertambah!):
 
-sad
     
 **🚀 Cara Menjalankan Proyek-Proyek Ini 🚀**
 
