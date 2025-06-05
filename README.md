@@ -8,7 +8,7 @@ Repositori ini berisi kumpulan proyek Django yang dikategorikan berdasarkan fitu
 
 Beberapa kategori proyek yang mungkin Anda temukan (daftar ini akan terus bertambah!):
 
-
+sad
     
 **🚀 Cara Menjalankan Proyek-Proyek Ini 🚀**
 
